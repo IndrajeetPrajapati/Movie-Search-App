@@ -1,16 +1,72 @@
-# React + Vite
+# 🎬 Movie Search App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Movie Search App** built with **React.js**. This application allows users to browse a collection of movies and instantly search for their favorite titles using a dynamic search feature.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* 🔍 Real-time movie search
+* 🎥 Responsive movie card layout
+* 🖼️ Movie posters with titles and categories
+* ⚛️ Built using React functional components and Hooks
+* 📱 Responsive design for desktop and mobile devices
+* 🎨 Clean and attractive user interface
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Vite
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```text
+src/
+├── images/
+├── App.jsx
+├── App.css
+├── main.jsx
+└── index.css
+```
+
+## ▶️ Installation
+
+1. Clone the repository
+2. Install dependencies
+
+```bash
+npm install
+```
+
+3. Start the development server
+
+```bash
+npm run dev
+```
+
+## 📸 Features Preview
+
+* Search movies by name
+* Dynamic filtering
+* Responsive movie cards
+* Smooth hover effects
+
+## 📈 Future Improvements
+
+* Movie API integration (TMDB/OMDb)
+* Genre filtering
+* Pagination
+* Dark/Light mode
+* Movie details page
+* Favorites (Wishlist)
+
+## 👨‍💻 Author
+
+**Indrajeet Kumar Prajapati**
+
+If you like this project, don't forget to ⭐ the repository.
+
+
+
+<img width="1898" height="774" alt="12" src="https://github.com/user-attachments/assets/43cee543-2dbd-440a-b2fe-461e26548ed0" />
